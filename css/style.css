@@ -31,7 +31,7 @@ p{
     margin-left: 10px;
 } 
 #Botonera{
-    background-color: hsla(335, 75%, 46%, 0.5);
+    background: linear-gradient(to top, #f870bf, #ffc0cb);
 }
     #Botonera img{
         width: 120px;
@@ -59,7 +59,7 @@ header a img{
     margin-bottom: 5vh;
 }     
 footer{
-    background-color: #f870bf;
+    background: linear-gradient(to top, #ffc0cb, #f870bf);
     margin-top: 20px;
 }  
     footer h3{
